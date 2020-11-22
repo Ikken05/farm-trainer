@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">farm trainer</string>
+    <string name="pick_a_prof">pick your profile</string>
+    <string name="activity_field">chose your activity field</string>
+</resources>
